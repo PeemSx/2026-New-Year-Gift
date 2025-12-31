@@ -287,7 +287,7 @@ export default function Home() {
                   caption: "Your little base",
                 },
                 {
-                  src: "/images/geck/img5.png",
+                  src: "/images/geck/img5.PNG",
                   alt: "GeckSMP adventure",
                   caption: "A silly moment that you sent to me",
                 },
@@ -704,7 +704,7 @@ export default function Home() {
                   delay: "",
                 },
                 {
-                  src: "/images/yourvoice/IMG_6579.PNG",
+                  src: "/images/yourvoice/IMG_6579.jpg",
                   style: {
                     top: "8%",
                     right: "6%",
